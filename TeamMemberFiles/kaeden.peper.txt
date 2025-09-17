@@ -1,3 +1,5 @@
 What new technology does is create new opportunities to do a job that customers want done
 Tim O'Reilly
 Favorite Tech Stack: Java, MySQL, React, HTML
+
+Changes for activity 3
